@@ -9,4 +9,3 @@ ADVANTAGES OF THIS WEBPAGE
   <li>Have a Strength Detector algorithm</li>
   <li>You can directly copy the password to the clipboard in a single click</li>
 </ul>
-link - https://giri2103.github.io/PasswordGenerator/
