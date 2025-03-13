@@ -1,7 +1,9 @@
 # PasswordGenerator
 ![PasswordGenerator](https://github.com/user-attachments/assets/39aa54c5-b83f-4491-86ac-a5e410ba4c52)
 
-Everytime we sign up on a website we have to add a password and now days as threats related to accounts are increasing we can take a step ahead for securing our account with the help of a strong password which includes lowercase character,uppercase characters,symbols and numbers in it so I have created this password generator webpage using which you can generate a password with desired required characters you can include in it also there is a strenght calculator which will calculate the strength of the password also you can have desired length password from 1 to 20 length long password by default the slider is set to 10. 
+Whenever we sign up on a website, we are required to create a password. With the increasing threats to online accounts, it is essential to take extra steps to enhance security. A strong password should include a combination of lowercase and uppercase letters, numbers, and symbols.  
+
+To address this, I have developed a password generator webpage that allows users to create secure passwords with customizable character requirements. Additionally, the webpage features a password strength calculator to evaluate the strength of the generated password. Users can also set their preferred password length, ranging from 1 to 20 characters, with the default length set to 10.
 
 ADVANTAGES OF THIS WEBPAGE
 <ul>
